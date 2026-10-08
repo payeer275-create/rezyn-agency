@@ -1,0 +1,11 @@
+# secrets
+.env
+.env.*
+*.pem
+*.key
+secrets.*
+
+# tooling
+node_modules/
+.vercel/
+.DS_Store
